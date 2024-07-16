@@ -99,7 +99,7 @@
 							<li>Integrates PostgreSQL for robust and scalable data management</li>
 							<li>Utilizes REST APIs for seamless communication between frontend and backend</li>
 							<li>Aims to offer a luxurious and convenient transportation experience for all users</li>
-							<li>HTML, Tailwind, React, Javascript, Express, Node</li>
+							<li>HTML, Tailwind, React, Express, Node</li>
 						</ul>
 				</div>
         </tr>
