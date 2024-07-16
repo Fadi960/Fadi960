@@ -79,7 +79,7 @@
 				<h3 align="center">Diamond Chauffeur Limousine</h3>
 				<div align="center" >  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="2.png" alt="project 1" height="100%" />
+						<img src="home page 1.png" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
