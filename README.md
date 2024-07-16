@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fahad-ahmed-sajjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-ahmed-sajjad" height="30" width="40" /></a>
-<a href="https://instagram.com/fahadkhan.5814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahadkhan.5814" height="30" width="40" /></a>
+<a href="https://instagram.com/fahad.khan5814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahadkhan.5814" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/two pakistani traveller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="two pakistani traveller" height="30" width="40" /></a>
 <a href="https://discord.gg/Fadi2234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fadi2234" height="30" width="40" /></a>
 </p>
