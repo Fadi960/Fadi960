@@ -35,3 +35,69 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadi960&show_icons=true&locale=en" alt="fadi960" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadi960&" alt="fadi960" /></p>
+
+<!-- PROJECTS -->
+
+<h2>Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">Agency Pics</h3>
+				<div align="center">  
+					<a href='https://www.agency.pics/' target="_blank">
+						<img src="1.png" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+					   <a href="https://github.com/iamqasimali/agency_pics" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					   </a>  
+					   <a href="https://www.agency.pics/" target="_blank">
+              					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+					   </a>
+					</p>
+					<p><strong>Ruby on Rails, React, Sendgrid, Stripe Payments</strong></p>
+          				<p>
+						<ul>
+							<li>Heroku for Production Environment</li>
+							<li>Stripe Checkouts, customers, Products</li>
+							<li>Devise for Authentication</li>
+							<li>Pendit for Authorization</li>
+							<li>Postgreql || PG_Search </li>
+							<li>Active Storage </li>
+							<li>Kaminari </li>
+							<li>REST API's</li>
+							<li>Monthly subscriptions deduction || ActiveJobs || Sidekiq </li>
+							<li>HTML, Bootstrap,SCSS, Javascript</li>
+						</ul>
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Diamond Chauffeur Limousine</h3>
+				<div align="center" >  
+					<a href='https://codingphase.com' target="_blank">
+						<img src="2.png" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>HTML, CSS, Javascript</strong></p>
+						<ul>
+							<li>Guest, Customer, Admin</li>
+							<li>PostgreSQL</li>
+							<li>REST API's</li>
+							<li>HTML, Tailwind, React, Javascript, Express, Node</li>
+						</ul>
+				</div>
+        </tr>
+	    <tr>
