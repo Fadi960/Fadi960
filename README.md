@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahad Ahmed</h1>
-<h3 align="center">A Passionate Full Stack Web Developer</h3>
+<h3 align="center">A Passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadi960&label=Profile%20views&color=0e75b6&style=flat" alt="fadi960" /> </p>
 
