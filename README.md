@@ -46,7 +46,7 @@
 				<h3 align="center">Early Flood Detection</h3>
 				<div align="center">  
 					<a href='https://www.earlyflood.com/' target="_blank">
-						<img src=`"dashboard.png"` alt="project 1" height="100%" />
+						<img src="https://github.com/user-attachments/assets/ec0305c2-52f2-42c4-80a4-c9bdfac1bf66" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -76,7 +76,7 @@
 				<h3 align="center">Diamond Chauffeur Limousine</h3>
 				<div align="center" >  
 					<a href='https://diamondchauffeurlimousine.com' target="_blank">
-						<img src="1.png" alt="project 2" height="100%" />
+						<img src="https://github.com/user-attachments/assets/7f6d88cf-e929-4a16-9bba-9d69e43586be" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
