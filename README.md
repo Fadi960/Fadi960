@@ -46,12 +46,12 @@
 				<h3 align="center">Early Flood Detection</h3>
 				<div align="center">  
 					<a href='https://www.earlyflood.com/' target="_blank">
-						<img src="2.png" alt="project 1" height="100%" />
+						<img src=`"dashboard.png"` alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-					   <a href="https://github.com/iamqasimali/agency_pics" target="_blank">
+					   <a href="https://github.com/fadi960/agency_pics" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					   </a>  
 					   <a href="https://www.earlyflood.com/" target="_blank">
@@ -76,7 +76,7 @@
 				<h3 align="center">Diamond Chauffeur Limousine</h3>
 				<div align="center" >  
 					<a href='https://diamondchauffeurlimousine.com' target="_blank">
-						<img src="1.png" alt="project 1" height="100%" />
+						<img src="1.png" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -88,7 +88,7 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
+					 <p><strong>HTML, Tailwind, React, Express</strong></p>
 						<ul>
 							<li>Guest, Customer, Admin</li>
 							<li>PostgreSQL</li>
