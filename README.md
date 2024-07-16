@@ -43,10 +43,10 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Agency Pics</h3>
+				<h3 align="center">Early Flood Detection</h3>
 				<div align="center">  
-					<a href='https://www.agency.pics/' target="_blank">
-						<img src="1.png" alt="project 1" height="100%" />
+					<a href='https://www.earlyflood.com/' target="_blank">
+						<img src="2.png" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -54,23 +54,20 @@
 					   <a href="https://github.com/iamqasimali/agency_pics" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					   </a>  
-					   <a href="https://www.agency.pics/" target="_blank">
+					   <a href="https://www.earlyflood.com/" target="_blank">
               					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 					   </a>
 					</p>
-					<p><strong>Ruby on Rails, React, Sendgrid, Stripe Payments</strong></p>
+					<p><strong>Arduino,Firebase and GDScript</strong></p>
           				<p>
 						<ul>
-							<li>Heroku for Production Environment</li>
-							<li>Stripe Checkouts, customers, Products</li>
-							<li>Devise for Authentication</li>
-							<li>Pendit for Authorization</li>
-							<li>Postgreql || PG_Search </li>
-							<li>Active Storage </li>
-							<li>Kaminari </li>
-							<li>REST API's</li>
-							<li>Monthly subscriptions deduction || ActiveJobs || Sidekiq </li>
-							<li>HTML, Bootstrap,SCSS, Javascript</li>
+							<li>IOT Project</li>
+							<li>Monitors real-time sensor data from rivers, weather stations</li>
+							<li>Analyzes water levels, temperature, humidity, distance</li>
+							<li>Predicts flood occurrences and alerts authorities and communities</li>
+							<li>Firebase</li>
+							<li>Aims to enhance disaster preparedness and reduce flood-related damages</li>
+							<li>Godot Engine| GDScript | Arduino | Firebase</li>
 						</ul>
 					</p>
 				</div>
@@ -78,7 +75,7 @@
 			<td width="50%">
 				<h3 align="center">Diamond Chauffeur Limousine</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
+					<a href='https://diamondchauffeurlimousine.com' target="_blank">
 						<img src="1.png" alt="project 1" height="100%" />
 					</a>
 					<br>
