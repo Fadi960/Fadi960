@@ -40,66 +40,65 @@
 
 <h2>Projects</h2>
 <div align="center">
-	<table>
-		<tr>
-			<td width="50%">
-				<h3 align="center">Early Flood Detection</h3>
-				<div align="center">  
-					<a href='https://www.earlyflood.com/' target="_blank">
-						<img src="https://github.com/user-attachments/assets/ec0305c2-52f2-42c4-80a4-c9bdfac1bf66" alt="project 1" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-					   <a href="https://github.com/fadi960/agency_pics" target="_blank">
-						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-					   </a>  
-					   <a href="https://www.earlyflood.com/" target="_blank">
-              					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-					   </a>
-					</p>
-					<p><strong>Arduino,Firebase and GDScript</strong></p>
-          				<p>
-						<ul>
-							<li>IOT Project</li>
-							<li>Monitors real-time sensor data from rivers, weather stations</li>
-							<li>Analyzes water levels, temperature, humidity, distance</li>
-							<li>Predicts flood occurrences and alerts authorities and communities</li>
-							<li>Aims to enhance disaster preparedness and reduce flood-related damages</li>
-							<li>Godot Engine, GDScript, Arduino, Firebase</li>
-						</ul>
-					</p>
-				</div>
-			</td>
-			<td width="50%">
-				<h3 align="center">Diamond Chauffeur Limousine</h3>
-				<div align="center" >  
-					<a href='https://diamondchauffeurlimousine.com' target="_blank">
-						<img src="https://github.com/user-attachments/assets/7f6d88cf-e929-4a16-9bba-9d69e43586be" alt="project 2" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-					</p>
-					 <p><strong>HTML, Tailwind, React, Express, Node, PostgreSQL</strong></p>
-						<ul>
-							<li>Offers luxury transportation services with a fleet of high-end vehicles</li>
-							<li>Browse and select from a range of luxury vehicles</li>
-							<li>View detailed information and images of available vehicles</li>
-							<li>Allows admins to view and manage detailed reports on reservations and vehicle usage.</li>
-							<li>Admins can manage user accounts, handle vehicle inventory, and process bookings</li>
-							<li>Supports role-based access with functionalities for guests, customers, and admins</li>
-							<li>Integrates PostgreSQL for robust and scalable data management</li>
-							<li>Utilizes REST APIs for seamless communication between frontend and backend</li>
-							<li>Aims to offer a luxurious and convenient transportation experience for all users</li>
-							<li>HTML, Tailwind, React, Express, Node</li>
-						</ul>
-				</div>
-        </tr>
-	    <tr>
+    <!-- Project 1 -->
+    <div style="margin-bottom: 20px;">
+        <h3 align="center">Early Flood Detection</h3>
+        <div align="center">  
+            <a href='https://www.earlyflood.com/' target="_blank">
+                <img src="https://github.com/user-attachments/assets/ec0305c2-52f2-42c4-80a4-c9bdfac1bf66" alt="project 1" height="100%" />
+            </a>
+            <br>
+            <br>
+            <p>
+                <a href="https://github.com/fadi960/agency_pics" target="_blank">
+                    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+                </a>  
+                <a href="https://www.earlyflood.com/" target="_blank">
+                    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+                </a>
+            </p>
+            <p><strong>Arduino, Firebase, and GDScript</strong></p>
+            <ul>
+                <li>IOT Project</li>
+                <li>Monitors real-time sensor data from rivers, weather stations</li>
+                <li>Analyzes water levels, temperature, humidity, distance</li>
+                <li>Predicts flood occurrences and alerts authorities and communities</li>
+                <li>Aims to enhance disaster preparedness and reduce flood-related damages</li>
+                <li>Godot Engine, GDScript, Arduino, Firebase</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Project 2 -->
+    <div>
+        <h3 align="center">Diamond Chauffeur Limousine</h3>
+        <div align="center">  
+            <a href='https://diamondchauffeurlimousine.com' target="_blank">
+                <img src="https://github.com/user-attachments/assets/7f6d88cf-e929-4a16-9bba-9d69e43586be" alt="project 2" height="100%" />
+            </a>
+            <br>
+            <br>
+            <p>
+                <a href="https://codingphase.com" target="_blank">
+                    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+                </a>  
+                <a href="https://codingphase.com" target="_blank">
+                    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+                </a>	
+            </p>
+            <p><strong>HTML, Tailwind, React, Express, Node, PostgreSQL</strong></p>
+            <ul>
+                <li>Offers luxury transportation services with a fleet of high-end vehicles</li>
+                <li>Browse and select from a range of luxury vehicles</li>
+                <li>View detailed information and images of available vehicles</li>
+                <li>Allows admins to view and manage detailed reports on reservations and vehicle usage</li>
+                <li>Admins can manage user accounts, handle vehicle inventory, and process bookings</li>
+                <li>Supports role-based access with functionalities for guests, customers, and admins</li>
+                <li>Integrates PostgreSQL for robust and scalable data management</li>
+                <li>Utilizes REST APIs for seamless communication between frontend and backend</li>
+                <li>Aims to offer a luxurious and convenient transportation experience for all users</li>
+                <li>HTML, Tailwind, React, Express, Node</li>
+            </ul>
+        </div>
+    </div>
+</div>
