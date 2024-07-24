@@ -65,7 +65,6 @@
 							<li>Monitors real-time sensor data from rivers, weather stations</li>
 							<li>Analyzes water levels, temperature, humidity, distance</li>
 							<li>Predicts flood occurrences and alerts authorities and communities</li>
-							<li>Firebase</li>
 							<li>Aims to enhance disaster preparedness and reduce flood-related damages</li>
 							<li>Godot Engine, GDScript, Arduino, Firebase</li>
 						</ul>
