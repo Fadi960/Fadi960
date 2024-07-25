@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js, Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Business, E-Commerce, Blog, Travel web applications projects**
+- 👯 I’m looking to collaborate on **Business, E-Commerce, Blog, Travel, Ai web applications projects**
 
 - 🤝 I’m looking for help with **open source projects collaboration and web Security.**
 
