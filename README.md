@@ -39,7 +39,8 @@
 <!-- PROJECTS -->
 
 ## Projects
-
+<div align="center">
+    
 ### Early Flood Detection
 <div align="center">
     <a href='https://www.earlyflood.com/' target="_blank">
