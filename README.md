@@ -89,3 +89,29 @@
         <li>Aims to offer a luxurious and convenient transportation experience for all users</li>
     </ul>
 </div>
+
+### intimeGDT
+<div align="center">
+    <a href='https://diamondchauffeurlimousine.com' target="_blank">
+        <img src="https://github.com/user-attachments/assets/7f6d88cf-e929-4a16-9bba-9d69e43586be" alt="Diamond Chauffeur Limousine" height="500" />
+    </a>
+    <br>
+    <a href="https://codingphase.com" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo" />
+    </a>  
+    <a href="https://diamondchauffeurlimousine.com" target="_blank">
+        <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0" alt="Live" />
+    </a>
+    <p><strong>Tailwind, React</strong></p>
+    <ul>
+        <li>Offers luxury transportation services with a fleet of high-end vehicles</li>
+        <li>Browse and select from a range of luxury vehicles</li>
+        <li>View detailed information and images of available vehicles</li>
+        <li>Allows admins to view and manage detailed reports on reservations and vehicle usage</li>
+        <li>Admins can manage user accounts, handle vehicle inventory, and process bookings</li>
+        <li>Supports role-based access with functionalities for guests, customers, and admins</li>
+        <li>Integrates PostgreSQL for robust and scalable data management</li>
+        <li>Utilizes REST APIs for seamless communication between frontend and backend</li>
+        <li>Aims to offer a luxurious and convenient transportation experience for all users</li>
+    </ul>
+</div>
