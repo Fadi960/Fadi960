@@ -92,8 +92,8 @@
 
 ### intimeGDT
 <div align="center">
-    <a href='https://diamondchauffeurlimousine.com' target="_blank">
-        <img src="https://github.com/user-attachments/assets/7f6d88cf-e929-4a16-9bba-9d69e43586be" alt="Diamond Chauffeur Limousine" height="500" />
+    <a href='https://intimegdt.com' target="_blank">
+        <img src="https://github.com/user-attachments/assets/81edcc46-4841-4eb6-a329-7ea5b092d86e" alt="Diamond Chauffeur Limousine" height="500" />
     </a>
     <br>
     <a href="https://codingphase.com" target="_blank">
@@ -104,14 +104,10 @@
     </a>
     <p><strong>Tailwind, React</strong></p>
     <ul>
-        <li>Offers luxury transportation services with a fleet of high-end vehicles</li>
-        <li>Browse and select from a range of luxury vehicles</li>
-        <li>View detailed information and images of available vehicles</li>
-        <li>Allows admins to view and manage detailed reports on reservations and vehicle usage</li>
-        <li>Admins can manage user accounts, handle vehicle inventory, and process bookings</li>
-        <li>Supports role-based access with functionalities for guests, customers, and admins</li>
-        <li>Integrates PostgreSQL for robust and scalable data management</li>
-        <li>Utilizes REST APIs for seamless communication between frontend and backend</li>
-        <li>Aims to offer a luxurious and convenient transportation experience for all users</li>
+        <li> IntimeGDT offers access to a diverse range of datasets from multiple providers, catering to various industries and domains</li>
+        <li>Users can discover, evaluate, and access data in real-time, ensuring up-to-date information for their needs</li>
+        <li>The platform allows for seamless integration of data products into users data ecosystems, enhancing their analytics, machine learning</li>
+        <li>Supports various use cases, including analytics, machine learning, and business intelligence, helping organizations utilize data effectively</li>
+        <li>By providing comprehensive datasets, IntimeGDT enables organizations to make informed, data-driven decisions across different industries</li>
     </ul>
 </div>
