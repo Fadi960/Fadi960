@@ -102,7 +102,7 @@
     <a href="https://diamondchauffeurlimousine.com" target="_blank">
         <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0" alt="Live" />
     </a>
-    <p><strong>Tailwind, React</strong></p>
+    <p><strong>HTML, Tailwind, React, PostgreSQL</strong></p>
     <ul>
         <li> IntimeGDT offers access to a diverse range of datasets from multiple providers, catering to various industries and domains</li>
         <li>Users can discover, evaluate, and access data in real-time, ensuring up-to-date information for their needs</li>
