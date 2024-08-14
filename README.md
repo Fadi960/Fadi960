@@ -113,3 +113,26 @@
         <li>By providing comprehensive datasets, IntimeGDT enables organizations to make informed, data-driven decisions across different industries</li>
     </ul>
 </div>
+
+### Artio
+<div align="center">
+    <a href='https://intimegdt.com' target="_blank">
+        <img src="https://github.com/user-attachments/assets/81edcc46-4841-4eb6-a329-7ea5b092d86e" alt="Diamond Chauffeur Limousine" height="500" />
+    </a>
+    <br>
+    <a href="https://codingphase.com" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo" />
+    </a>  
+    <a href="https://diamondchauffeurlimousine.com" target="_blank">
+        <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0" alt="Live" />
+    </a>
+    <p><strong>HTML, Tailwind, React, PostgreSQL,Hugging Face,Node.js,Express.js</strong></p>
+    <ul>
+        <li>It leverages Hugging Face's pre-trained model to generate high-quality images based on text input, enabling users to visualize creative ideas and concepts</li>
+        <li>The web app features an intuitive and responsive design, making it easy for users to input text prompts and view generated images in real-time</li>
+        <li>Users can fine-tune image generation settings to achieve desired styles, ensuring the outputs align with specific creative visions</li>
+        <li>It connects directly to Hugging Face's model repository, ensuring continuous updates and access to the latest advancements in text-to-image technology</li>
+        <li>It implements best practices in security and scalability, ensuring a safe and efficient experience for users, even under high-traffic conditions</li>
+    </ul>
+</div>
+
