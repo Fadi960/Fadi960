@@ -162,7 +162,7 @@
 ### Restaura
 <div align="center">
     <a href='https://restaura.com' target="_blank">
-        <img src="https://github.com/user-attachments/assets/6b2b5f13-18b2-4931-bdb7-eee7ba3b6b15" alt="Restaura" height="500" />
+        <img src="https://github.com/user-attachments/assets/53978054-7d3a-46bd-9fbe-fcb04f707a12" alt="Restaura" height="500" />
     </a>
     <br>
     <a href="https://codingphase.com" target="_blank">
