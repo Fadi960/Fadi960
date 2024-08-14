@@ -159,4 +159,24 @@
     </ul>
 </div>
 
-
+### Restaura
+<div align="center">
+    <a href='https://restaura.com' target="_blank">
+        <img src="https://github.com/user-attachments/assets/6b2b5f13-18b2-4931-bdb7-eee7ba3b6b15" alt="Restaura" height="500" />
+    </a>
+    <br>
+    <a href="https://codingphase.com" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo" />
+    </a>  
+    <a href="https://diamondchauffeurlimousine.com" target="_blank">
+        <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0" alt="Live" />
+    </a>
+    <p><strong>HTML, Tailwind, React, PostgreSQL, Node.js, Express.js</strong></p>
+    <ul>
+        <li>It is a web app that allows restaurants to showcase their menu engagingly and interactively, making it easy for customers to explore offerings</li>
+        <li>The app includes a streamlined table booking system, enabling customers to reserve tables quickly and efficiently</li>
+        <li>Designed with a focus on simplicity and ease of use, Retaura ensures a smooth experience for both restaurant staff and customers</li>
+        <li>Fully optimized for mobile devices, Retaura provides a seamless browsing and booking experience on smartphones and tablets</li>
+        <li> The app is built with security best practices, ensuring that customer data is protected and the system remains reliable under high traffic conditions</li>
+    </ul>
+</div>
