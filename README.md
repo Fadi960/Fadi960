@@ -116,8 +116,8 @@
 
 ### Artio
 <div align="center">
-    <a href='https://intimegdt.com' target="_blank">
-        <img src="https://github.com/user-attachments/assets/81edcc46-4841-4eb6-a329-7ea5b092d86e" alt="Diamond Chauffeur Limousine" height="500" />
+    <a href='https://artio.com' target="_blank">
+        <img src="https://github.com/user-attachments/assets/cc9d8e23-617a-42da-9d84-e07d41df2060" alt="Artio" height="500" />
     </a>
     <br>
     <a href="https://codingphase.com" target="_blank">
@@ -126,7 +126,7 @@
     <a href="https://diamondchauffeurlimousine.com" target="_blank">
         <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0" alt="Live" />
     </a>
-    <p><strong>HTML, Tailwind, React, PostgreSQL,Hugging Face,Node.js,Express.js</strong></p>
+    <p><strong>HTML, Tailwind, React, PostgreSQL, Hugging Face, Node.js, Express.js</strong></p>
     <ul>
         <li>It leverages Hugging Face's pre-trained model to generate high-quality images based on text input, enabling users to visualize creative ideas and concepts</li>
         <li>The web app features an intuitive and responsive design, making it easy for users to input text prompts and view generated images in real-time</li>
