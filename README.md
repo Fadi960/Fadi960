@@ -140,7 +140,7 @@
 ### VirtualR
 <div align="center">
     <a href='https://virtualreality.com' target="_blank">
-        <img src="https://github.com/user-attachments/assets/cc9d8e23-617a-42da-9d84-e07d41df2060" alt="Artio" height="500" />
+        <img src="https://github.com/user-attachments/assets/6b2b5f13-18b2-4931-bdb7-eee7ba3b6b15" alt="VirtualR" height="500" />
     </a>
     <br>
     <a href="https://codingphase.com" target="_blank">
