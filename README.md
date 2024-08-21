@@ -96,7 +96,7 @@
 ### intimeGDT
 <div align="center">
     <a href='https://intimegdt.com' target="_blank">
-        <img src="https://github.com/user-attachments/assets/81edcc46-4841-4eb6-a329-7ea5b092d86e" alt="Diamond Chauffeur Limousine" height="500" />
+        <img src="https://github.com/user-attachments/assets/6d7ee214-2166-4728-bc06-c181547a10d4" alt="intimeGDT" height="500" />
     </a>
     <br>
     <a href="https://codingphase.com" target="_blank">
