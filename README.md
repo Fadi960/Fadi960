@@ -70,7 +70,7 @@
 ### Diamond Chauffeur Limousine
 <div align="center">
     <a href='https://diamondchauffeurlimousine.com' target="_blank">
-        <img src="https://github.com/user-attachments/assets/7f6d88cf-e929-4a16-9bba-9d69e43586be" alt="Diamond Chauffeur Limousine" height="500" />
+        <img src="https://github.com/user-attachments/assets/c6405cf5-2aae-461a-ad4a-4ad55460e776" alt="Diamond Chauffeur Limousine" height="500" />
     </a>
     <br>
     <a href="https://codingphase.com" target="_blank">
@@ -162,7 +162,7 @@
 ### Restaura
 <div align="center">
     <a href='https://restaura.com' target="_blank">
-        <img src="https://github.com/user-attachments/assets/53978054-7d3a-46bd-9fbe-fcb04f707a12" alt="Restaura" height="500" />
+        <img src="https://github.com/user-attachments/assets/a4ce97fa-1ca9-4268-ba44-a32984719fc8" alt="Restaura" height="500" />
     </a>
     <br>
     <a href="https://codingphase.com" target="_blank">
