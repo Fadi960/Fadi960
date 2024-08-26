@@ -46,7 +46,7 @@
     
 ### Early Flood Detection
 <div align="center">
-    <a href='https://www.earlyflood.com/' target="_blank">
+    <a href='https://quickgemsolutions.com/' target="_blank">
         <img src="https://github.com/user-attachments/assets/ec0305c2-52f2-42c4-80a4-c9bdfac1bf66" alt="Early Flood Detection" height="500" />
     </a>
     <br>
@@ -69,7 +69,7 @@
 
 ### Diamond Chauffeur Limousine
 <div align="center">
-    <a href='https://diamondchauffeurlimousine.com' target="_blank">
+    <a href='https://quickgemsolutions.com/' target="_blank">
         <img src="https://github.com/user-attachments/assets/c6405cf5-2aae-461a-ad4a-4ad55460e776" alt="Diamond Chauffeur Limousine" height="500" />
     </a>
     <br>
@@ -95,7 +95,7 @@
 
 ### intimeGDT
 <div align="center">
-    <a href='https://intimegdt.com' target="_blank">
+    <a href='https://quickgemsolutions.com/' target="_blank">
         <img src="https://github.com/user-attachments/assets/6d7ee214-2166-4728-bc06-c181547a10d4" alt="intimeGDT" height="500" />
     </a>
     <br>
@@ -117,7 +117,7 @@
 
 ### Artio
 <div align="center">
-    <a href='https://artio.com' target="_blank">
+    <a href='https://quickgemsolutions.com/' target="_blank">
         <img src="https://github.com/user-attachments/assets/843ddd83-f277-45be-992d-40b73037816b" alt="Artio" height="500" />
     </a>
     <br>
@@ -139,7 +139,7 @@
 
 ### VirtualR
 <div align="center">
-    <a href='https://virtualreality.com' target="_blank">
+    <a href='https://quickgemsolutions.com/' target="_blank">
         <img src="https://github.com/user-attachments/assets/20e8a91e-72c5-414a-9849-b47646df093e" alt="VirtualR" height="500" />
     </a>
     <br>
@@ -161,7 +161,7 @@
 
 ### Restaura
 <div align="center">
-    <a href='https://restaura.com' target="_blank">
+    <a href='https://quickgemsolutions.com/' target="_blank">
         <img src="https://github.com/user-attachments/assets/a4ce97fa-1ca9-4268-ba44-a32984719fc8" alt="Restaura" height="500" />
     </a>
     <br>
